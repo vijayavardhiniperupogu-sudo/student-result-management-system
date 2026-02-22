@@ -1,31 +1,25 @@
 # Student Result Management System
 
-## 📌 Project Description
-The Student Result Management System is a Python-based console application that allows users to:
-- Add student details
-- Calculate total and average marks
-- Assign grades
-- Store records using file handling
-- Handle invalid inputs using exception handling
+This is a simple Python project developed by me as part of my practice in file handling and basic programming concepts.
 
-## 🛠 Technologies Used
-- Python
-- File Handling
-- Exception Handling
-- Conditional Statements
+In this project, I created a console-based application that allows:
+
+- Entering student name and marks
+- Calculating total and average
+- Generating grade based on average
+- Saving student data into a file
+
+I used Python concepts like:
+- Conditional statements
 - Functions
+- File handling
+- Exception handling
 
-## 🚀 Features
-- Automatic grade calculation
-- Data saved in text file
-- User-friendly console output
-- Error handling for invalid inputs
+This project helped me understand how real-world student result systems work in a basic level.
 
-## ▶ How to Run
-1. Install Python
-2. Download main.py
-3. Run:
-   python main.py
+Future Improvements:
+- Add menu options
+- Store multiple student records
+- Convert into GUI version
 
-## 👩‍💻 Author
-Vijaya Vardhini
+Thank you.
